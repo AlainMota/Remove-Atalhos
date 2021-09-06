@@ -12,7 +12,7 @@ Here are the technologies used in this project.
 * ...
 
 
-## Services Used
+## Serviços Usados
 
 * Github
 * ...
@@ -21,7 +21,7 @@ Here are the technologies used in this project.
 ## Ruby Gems
 ...
 
-## Getting started
+## Começando
 
 * To install gems:
 >    $ bundle install
@@ -30,12 +30,12 @@ Here are the technologies used in this project.
 * To run the project:
 >    $ rails s
 
-## How to use
+## Como Usar
 
 Here will be the images and descriptions. Principal content.
 
 
-## Features
+## Recursos
 
   - Here will be the features.
 
@@ -49,14 +49,14 @@ Here will be the images and descriptions. Principal content.
       to improve the security and privacy of this project!
 
 
-## Versioning
+## Controle de versão
 
-1.0.0.0
+2.0.0.0
 
 
-## Authors
+## Autor
 
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Alain L. Mota**: @AlainMota (https://github.com/YOUR_GITHUB_NICKNAME)
 
 
 Please follow github and join us!
