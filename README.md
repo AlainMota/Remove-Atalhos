@@ -56,8 +56,6 @@ Here will be the images and descriptions. Principal content.
 
 ## Autor
 
-* **Alain L. Mota**: @AlainMota (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Alain L. Mota**: @AlainMota (https://github.com/AlainMota)
 
-
-Please follow github and join us!
-Thanks to visiting me and good coding!
+Obrigado pela Visita!
