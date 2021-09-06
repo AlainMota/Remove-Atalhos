@@ -1,12 +1,9 @@
-# projeto_java
-![Logo of the project](http://logo_link)
+## Remove Atalhos
+https://github.com/AlainMota/projeto_java/blob/main/962409284cc747f6a18e2b8f696a4c04.png
 
-## Name_of_the_project
+Este projeto foi desenvolvido com o objetivo de remover o vírus de pendrive, responsável por ocultar os arquivos e criar uma série de atalhos, além disso ele permite a restauração dos arquivos originais, bem como a eliminação de todos os atalhos.
 
-... Description
-
-
-## Technology 
+## Tecnologia 
 
 Here are the technologies used in this project.
 
