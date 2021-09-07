@@ -37,13 +37,13 @@ Projeto de software livre descontinuado
    
 ## Controle de versão
 
-2.0.0.0
+* 2.0.0.0
 
 
 ## Autor
 
 * **Alain L. Mota**: @AlainMota (https://github.com/AlainMota)
 
-<img align="right" width="150" height="150" src="https://github.com/AlainMota/readme_images/blob/main/logo.png">
+![logo](https://github.com/AlainMota/readme_images/blob/main/logo.png)
 
 Obrigado pela Visita!
