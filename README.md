@@ -15,8 +15,12 @@ Aqui estão as tecnologias utilizadas neste projeto.
 * Github
 
 
-## Começando
-Projetos de software livre descontinuado
+## Situação do Projeto
+Projeto de software livre descontinuado
+
+## Interface
+
+<img align="left" width="150" height="150" src="https://github.com/AlainMota/readme_images/blob/main/designe_remove.png">
 
 
 ## Recursos
