@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com o objetivo de remover o vírus de pendrive, re
 
 Aqui estão as tecnologias utilizadas neste projeto.
 
-*Java SE 8
+* Java SE 8
 
 
 ## Serviços Usados
@@ -19,9 +19,9 @@ Aqui estão as tecnologias utilizadas neste projeto.
 Projeto de software livre descontinuado
 
 ## Interface
-*
+- 
 <img align="left" width="150" height="150" src="https://github.com/AlainMota/readme_images/blob/main/designe_remove.png">
-*
+- 
 
 ## Recursos
 
