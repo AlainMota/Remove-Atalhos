@@ -2,9 +2,9 @@
 Default
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
 
-# Welcome!
+# Bem Vindo!
 
-## I'm SEU NOME AQUI!
+## Meu nome é Alain L. MOta
 
 … Insira suas descrições aqui!
 
