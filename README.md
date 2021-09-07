@@ -46,4 +46,4 @@ Projeto de software livre descontinuado
 
 Obrigado pela Visita!
 
-<img align="center" width="150" height="150" src="https://github.com/AlainMota/readme_images/blob/main/logo.png">
+<img align="justify" width="150" height="150" src="https://github.com/AlainMota/readme_images/blob/main/logo.png">
