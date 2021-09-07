@@ -40,6 +40,6 @@ Projetos de software livre descontinuado
 
 * **Alain L. Mota**: @AlainMota (https://github.com/AlainMota)
 
-<img align="right" width="100" height="100" src="https://github.com/AlainMota/readme_images/blob/main/logo.png">
+<img align="center" width="100" height="100" src="https://github.com/AlainMota/readme_images/blob/main/logo.png">
 
 Obrigado pela Visita!
