@@ -1,12 +1,11 @@
 
-Default
 <img align="right" width="400" height="400" src="https://github.com/AlainMota/Remove-Atalhos/blob/main/1517521144808.jpeg">
 
 # Bem Vindo!
 
-## Meu nome é Alain L. MOta
+## Meu nome é Alain L. Mota
 
-… Um Professor em física, entusiasta e autodidata em programação, robótica, programação e eletrônica!
+Um Professor em física, entusiasta e autodidata em programação, robótica, programação e eletrônica!
 
 
 ## About me 
