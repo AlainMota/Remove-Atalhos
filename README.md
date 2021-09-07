@@ -9,51 +9,14 @@ Um Professor em física, entusiasta e autodidata em programação, robótica, pr
 
 
 ## Sobre mim 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=(98)_98413_7126&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](alainmota9@hotmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlainMota)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alain-mota-a61319117)]
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=98984137126&text=Hello!)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=alainmota9@gmail.com)]
 
-- Thanks for visiting. 
+- Obrigado pela visita. 
 
-- Enjoy it!! o/
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-	
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
- 
-# Welcome!
- 
-## I'm SEU NOME AQUI!
- 
-… Insira suas descrições aqui!
- 
- 
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
+
 ## Remove Atalhos
 ![Logo of the project](https://github.com/AlainMota/Remove-Atalhos/blob/main/logo.png)
 
