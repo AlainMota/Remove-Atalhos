@@ -1,5 +1,5 @@
 ## Remove Atalhos
-![Logo of the project](https://github.com/AlainMota/Remove-Atalhos/blob/main/logo.png)
+![Logo of the project](https://github.com/AlainMota/readme_images/blob/main/logo.png)
 
 Este projeto foi desenvolvido com o objetivo de remover o vírus de pendrive, responsável por ocultar os arquivos e criar uma série de atalhos, além disso ele permite a restauração dos arquivos originais, bem como a eliminação de todos os atalhos.
 
