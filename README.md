@@ -1,19 +1,3 @@
-# Bem Vindo!
-
-## Meu nome é Alain L. Mota
-
-Um Professor em física, entusiasta e autodidata em programação, robótica, programação e eletrônica!
-
-
-## Sobre mim 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlainMota)]
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alain-mota-a61319117)]
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=98984137126&text=Hello!)]
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=alainmota9@gmail.com)]
-
-- Obrigado pela visita. 
-
-
 ## Remove Atalhos
 ![Logo of the project](https://github.com/AlainMota/Remove-Atalhos/blob/main/logo.png)
 
