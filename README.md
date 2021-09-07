@@ -17,7 +17,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 
 ## Situação do Projeto
-Projeto de software livre descontinuado
+Projeto de software descontinuado.
 
 ## Interface
 
