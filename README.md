@@ -5,45 +5,31 @@ Este projeto foi desenvolvido com o objetivo de remover o vírus de pendrive, re
 
 ## Tecnologia 
 
-Here are the technologies used in this project.
+Aqui estão as tecnologias utilizadas neste projeto.
 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+*Java SE 8
 
 
 ## Serviços Usados
 
 * Github
-* ...
 
-
-## Ruby Gems
-...
 
 ## Começando
-
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
-
-## Como Usar
-
-Here will be the images and descriptions. Principal content.
+Projetos de software livre descontinuado
 
 
 ## Recursos
 
-  - Here will be the features.
+  - Remove o vírus com extensão .vbs.
+  - Remove os atalhos criado no pendrive.
+  - Desoculta os arquivos originais.
 
 
 ## Links
 
   - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+  - Repository: https://github.com/AlainMota/Remove-Atalhos
     - In case of sensitive bugs like security vulnerabilities, please contact
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
