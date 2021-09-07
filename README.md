@@ -28,13 +28,9 @@ Projetos de software livre descontinuado
 
 ## Links
 
-  - Link of deployed application: (if has been deployed)
+  - Link da aplicação desenvolvida: https://github.com/AlainMota/Remove-Atalhos/blob/main/REMOVE_2.0.jar
   - Repository: https://github.com/AlainMota/Remove-Atalhos
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
-
-
+   
 ## Controle de versão
 
 2.0.0.0
